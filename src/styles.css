@@ -5,6 +5,12 @@ h1 {
   line-height: 144px;
   text-align: left;
 }
+header {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.4) rgba(0, 0, 0, 0.4)),
+    url("https://s3.amazonaws.com/shecodesio-production/uploads/files/000/151/632/original/herobackground.png?1732814396");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
 .poppins-thin {
   font-family: "Poppins", sans-serif;
   font-weight: 100;
